@@ -93,7 +93,7 @@ Add a screenshot of the application here:
 
 ## 👨‍💻 Author
 
-**Srudhya Sankara Narayanan**
+**Vediga**
 
 ## ⭐ Support
 
