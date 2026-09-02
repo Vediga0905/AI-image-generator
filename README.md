@@ -83,14 +83,6 @@ stabilityai/stable-diffusion-2-1-base
 
 The model uses diffusion-based generative AI technology to convert text descriptions into images.
 
-## 📸 Preview
-
-Add a screenshot of the application here:
-
-```markdown
-![AI Image Generator Preview](preview.png)
-```
-
 ## 👨‍💻 Author
 
 **Vediga**
