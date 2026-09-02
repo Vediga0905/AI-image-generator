@@ -1,1 +1,83 @@
+# 🎨 AI Image Generator
+
+An AI Image Generator built using **Python, Streamlit, PyTorch, and Stable Diffusion 2.1**. Enter a text prompt and generate a unique AI-generated image.
+
+# ✨ Features
+
+* 📝 Enter a text prompt
+* 🎨 Generate AI-powered images
+* 🤖 Powered by Stable Diffusion 2.1
+* 🖥️ Simple and interactive Streamlit web interface
+* ⚡ Create images from natural language descriptions
+
+# 🛠️ Technologies
+
+* Python
+* Streamlit
+* PyTorch
+* Hugging Face Diffusers
+* Transformers
+* Stable Diffusion 2.1
+
+# 📁 Project Structure
+
+```text
+AI-Image-Generator/
+│
+├── imagegenerator.py
+├── requirements.txt
+└── README.md
+```
+
+# 📦 Installation
+
+1. Clone the repository
+
+```bash
+git clone
+cd AI-Image-Generator
+```
+
+2. Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the application
+
+```bash
+streamlit run imagegenerator.py
+```
+
+# 🚀 Usage
+
+* Open the Streamlit application.
+* Enter your desired image description in the prompt box.
+* Click **Generate Image**.
+* Wait for the Stable Diffusion model to process the prompt.
+* View the generated image on the screen.
+
+# 💡 Example Prompt
+
+```text
+A cute cat sitting in a beautiful garden
+```
+
+# 🤖 Model
+
+This project uses the Hugging Face Stable Diffusion model:
+
+```text
+stabilityai/stable-diffusion-2-1-base
+```
+
+The model converts text prompts into AI-generated images using diffusion-based technology.
+![AI Image Generator Preview](preview.png)
+
+# 👨‍💻 Author
+
+**Vediga**
+
+
 
